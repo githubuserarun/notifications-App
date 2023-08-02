@@ -1,0 +1,51 @@
+.bg_container {
+  height: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  width: 20px;
+  height: 20px;
+  color: white;
+}
+h1 {
+  color: black;
+}
+.box_container {
+  color: white;
+  width: 50vw;
+  gap: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.box1 {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background-color: #0b69ff;
+}
+.box2 {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background-color: #2dca73;
+}
+.box3 {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background-color: #ffb800;
+}
+.box4 {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background-color: #ff0b37;
+}
